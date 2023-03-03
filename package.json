@@ -64,5 +64,12 @@
     "patchedDependencies": {
       "@balazsorban/monorepo-release@0.1.8": "patches/@balazsorban__monorepo-release@0.1.8.patch"
     }
-  }
+  },
+  "volta": {
+    "node": "16.19.1",
+    "yarn": "1.22.19"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }

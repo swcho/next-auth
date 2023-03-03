@@ -37,6 +37,7 @@ packages/next-auth/jwt
 packages/next-auth/react
 packages/next-auth/next
 packages/*/*.js
+packages/*/*.js.map
 packages/*/*.d.ts
 packages/*/*.d.ts.map
 
